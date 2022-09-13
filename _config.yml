@@ -9,9 +9,9 @@ last_name: Bachar
 email: sbachar13@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  <center>
+  <right>
   al-folio theme
-  </center>
+  </right>
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
