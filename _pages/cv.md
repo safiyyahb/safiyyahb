@@ -1,8 +1,8 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: page
+title: resume
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+permalink: /resume
+
 ---
+<object data="assets/pdf/Resume_SafiyyahBachar-forwebsite.pdf" width="800" height="800" type='application/pdf'/>
