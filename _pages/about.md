@@ -20,6 +20,8 @@ I'm a clinical researcher at Stanford University with a background in neuroscien
 
 <img src="Stanford-logo.png">
 
+<object data="assets/img/Stanford-logo.png" width="800" height="100"/>
+
 
 
 <div style="position: absolute; bottom: 7px; font-size: 8px">
