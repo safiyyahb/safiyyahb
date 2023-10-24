@@ -24,6 +24,8 @@ I'm a clinical researcher at Stanford University with a background in neuroscien
 
 {% include image.html file="Stanford-logo.png.png" url="https://safiyyahb.github.io/"%}
 
+![Stanford-logo.png](/assets/images/Stanford-logo.png)
+
 
 
 
