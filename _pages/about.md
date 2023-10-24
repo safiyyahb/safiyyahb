@@ -21,10 +21,10 @@ I'm a clinical researcher at Stanford University with a background in neuroscien
 
 <img src="{{"/assets/img/Stanford_logo.png" | prepend: site.baseurl | prepend: site.url}}" alt="Stanford Logo" width="5" height="5""/>
 
-<img src="{{"/assets/img/UCSF_logo.png" alt="UCSF Logo" width="5" height="5""/>
+#<img src="{{"/assets/img/UCSF_logo.png" alt="UCSF Logo" width="5" height="5""/>
 
 
-
+![UCSF Logo](/assets/img/UCSF_logo.png){:height="5px" width="5px"}
 
 
 <div style="position: absolute; bottom: 7px; font-size: 8px">
