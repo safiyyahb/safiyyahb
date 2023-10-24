@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a neuroscience clinical researcher at Stanford University. My interest lies in using brain imaging tools (fMRI & fNIRS) to investigate clinical disorders. My hope is that this information will be used to improve clinical interventions and treatments. I am looking for roles in which I can utilize my research and administrative abilities to carry out clinical operations. 
+I'm a clinical researcher at Stanford University with a background in neuroscience and psychology. I have experience in neuroimaging clinical research (fNIRS/fMRI), as well as clinical trial operations in the areas of medical devices and drug trials. I am looking for roles in which I can utilize my research and administrative abilities to carry out clinical operations.
 
 
 
