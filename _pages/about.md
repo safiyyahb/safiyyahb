@@ -22,6 +22,10 @@ I'm a clinical researcher at Stanford University with a background in neuroscien
 <img src="/assets/img/Stanford-logo.png">
 
 
+{% include image.html file="Stanford-logo.png.png" url="https://safiyyahb.github.io/"%}
+
+
+
 
 <div style="position: absolute; bottom: 7px; font-size: 8px">
     <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
