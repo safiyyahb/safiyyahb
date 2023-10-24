@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 I'm a clinical researcher at Stanford University with a background in neuroscience and psychology. I have experience in neuroimaging clinical research (fNIRS/fMRI), as well as clinical trial operations in the areas of medical devices and drug trials. I am looking for roles in which I can utilize my research and administrative abilities to carry out clinical operations.
 
 
-<img src="./assets/img/Stanford-logo.png">
+<img src="/assets/img/Stanford-logo.png">
 
 
 
