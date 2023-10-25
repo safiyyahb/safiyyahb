@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a clinical researcher at Stanford University with a background in neuroscience and psychology. I have experience in neuroimaging clinical research (fNIRS/fMRI), as well as clinical trial operations in the areas of medical devices and drug trials. I am looking for roles in which I can utilize my research and administrative abilities to carry out clinical operations.
+I'm a clinical researcher at Stanford University with a background in neuroscience and psychology. I have experience in neuroimaging clinical research (fNIRS/fMRI), as well as drug clinical trials. I am looking for roles in which I can utilize my research and administrative abilities to carry out clinical operations.
 
 
 ![StanfordLogo](/assets/img/Stanford_logo.png){:height="50px" width="70px"}&nbsp;&nbsp;&nbsp;
