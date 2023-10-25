@@ -20,8 +20,8 @@ I'm a clinical researcher at Stanford University with a background in neuroscien
 
 
 ![StanfordLogo](/assets/img/Stanford_logo.png){:height="50px" width="70px"}&nbsp;&nbsp;&nbsp;
-![UCSFLogo](/assets/img/UCSF_logo.png){:height="40px" width="70px"}&nbsp;
-![USFlogo](/assets/img/USFCA_logo.png){:height="50px" width="115px"}&nbsp; 
+![UCSFLogo](/assets/img/UCSF_logo.png){:height="40px" width="70px"}&nbsp;&nbsp;&nbsp;
+![USFlogo](/assets/img/USFCA_logo.png){:height="50px" width="115px"}&nbsp;&nbsp;&nbsp; 
 ![UTULogo](/assets/img/UTU_logo.png){:height="70px" width="90px"}
 
 
